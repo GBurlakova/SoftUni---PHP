@@ -1,0 +1,126 @@
+html{
+    width: 100%;
+}
+
+body{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+
+/*Form Section*/
+.form{
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    float: left;
+}
+
+.form form legend{
+    text-align: center;
+}
+
+.form form fieldset{
+    background: rgb(200, 200, 200);
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 120%;
+}
+
+.button{
+    margin-top: 1%;
+    width: 35%;
+    height: 30px;
+    border: 1px solid rgb(180, 180, 180);
+    color: rgb(255, 255, 255);
+    background: rgb(68, 157, 68);
+    box-shadow: 0 3px 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 3px 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 3px 0 0 rgb(34, 158, 34);
+    vertical-align: top;
+}
+
+.button:active,
+.button:focus{
+    outline: none;
+}
+
+.button:active{
+    position: relative;
+    top: 3px;
+    box-shadow: 0 0 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 0 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 0 0 0 rgb(34, 158, 34);
+}
+
+/*CV Section*/
+.cv{
+    float: right;
+    vertical-align: top;
+    display: inline-block;
+    width: 48%;
+    background: rgb(200, 200, 200);
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 120%;
+}
+
+.cv header{
+    font-size: 140%;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+.cv div, .cv div div{
+    text-align: center;
+}
+
+.cv div > table{
+    margin: 0 auto 2% auto;
+    width: 85%;
+}
+
+.cv div > table tbody table{
+    width: 100%;
+    height: 100%;
+}
+
+.cv thead{
+    font-weight: bold;
+}
+
+.cv table, .cv div table thead tr th,
+.cv div table tbody tr td{
+    border: 1px solid rgb(50, 50, 50);
+}
+
+.cv div table thead tr th,
+.cv div table tbody tr td{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.cv .button-refresh{
+    margin: 1% auto;
+    width: 25%;
+    height: 30px;
+    border: 1px solid rgb(180, 180, 180);
+    color: rgb(255, 255, 255);
+    background: rgb(68, 157, 68);
+    box-shadow: 0 3px 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 3px 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 3px 0 0 rgb(34, 158, 34);
+}
+
+.button-refresh:active,
+.button-refresh:focus{
+    outline: none;
+}
+
+.button-refresh:active{
+    position: relative;
+    top: 3px;
+    box-shadow: 0 0 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 0 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 0 0 0 rgb(34, 158, 34);
+}

@@ -1,0 +1,78 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.form{
+    background: rgb(200, 200, 200);
+    padding: 2%;
+    width: 30%;
+    margin: 0 auto;
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 150%;
+}
+
+.form > div{
+    margin-bottom: 5%;
+}
+
+.form > div:after{
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.form > div label{
+    float: left;
+}
+
+.form > div input{
+    padding: 1%;
+    float: right;
+    border-radius: 5px;
+    width: 65%;
+    height: 30px;
+    border: 1px solid rgb(210, 210, 210);
+    outline: none;
+}
+
+.form > div:last-child{
+    text-align: center;
+}
+
+.form input[type='submit']{
+    float: none;
+    border: 1px solid rgb(180, 180, 180);
+    color: rgb(255, 255, 255);
+    background: rgb(68, 157, 68);
+    box-shadow: 0 3px 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 3px 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 3px 0 0 rgb(34, 158, 34);
+}
+
+.form input[type='submit']:active, .form input[type='submit']:focus{
+    outline: none;
+}
+
+.form input[type='submit']:active{
+    position: relative;
+    top: 3px;
+    box-shadow: 0 0 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 0 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 0 0 0 rgb(34, 158, 34);
+}
+
+.result{
+    margin: 1% auto;
+    background: rgb(200, 200, 200);
+    padding: 2%;
+    width: 30%;
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 150%;
+}

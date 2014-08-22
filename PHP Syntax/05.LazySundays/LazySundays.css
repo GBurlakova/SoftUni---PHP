@@ -1,0 +1,17 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.result{
+    margin: 1% auto;
+    background: rgb(200, 200, 200);
+    padding: 2%;
+    width: 30%;
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    color: rgb(50, 50, 50);
+    font-size: 2rem;
+}

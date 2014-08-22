@@ -1,0 +1,61 @@
+html{
+    width: 100%;
+}
+
+body{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.heading{
+    display: block;
+    margin: 1% auto;
+    width: 30%;
+    background: rgb(200, 200, 200);
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 120%;
+    padding: 2%;
+}
+
+.main-field{
+    display: inline-block;
+    width: 40%;
+    background: rgb(200, 200, 200);
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 120%;
+    padding: 2%;
+}
+
+.main-field input{
+    width: 30%;
+    height: 35px;
+    border-radius: 5px;
+    float: left;
+}
+
+.main-field input:active, .main-field input:focus,
+.main-field select:active, .main-field select:focus{
+    outline: none;
+}
+
+.main-field datalist option{
+    border-radius: 5px;
+    font-size: 120%;
+}
+
+.main-field .result {
+    float: right;
+    width: 30%;
+}
+
+.main-field .result .select{
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.main-field .result .errorMessage{
+    text-align: justify;
+}

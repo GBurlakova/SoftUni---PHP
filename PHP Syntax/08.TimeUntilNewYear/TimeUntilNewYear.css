@@ -1,0 +1,10 @@
+.result{
+    margin: 15% auto;
+    background: rgb(200, 200, 200);
+    padding: 2%;
+    width: 30%;
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    text-align: center;
+    font-size: 150%;
+}

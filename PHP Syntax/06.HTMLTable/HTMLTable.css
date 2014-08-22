@@ -1,0 +1,90 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.form-info{
+    background: rgb(200, 200, 200);
+    padding: 2%;
+    width: 30%;
+    margin: 0 auto;
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+}
+
+.form-info > div{
+    margin-bottom: 5%;
+}
+
+.form-info > div:after{
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.form-info > div label{
+    float: left;
+}
+
+.form-info > div input{
+    padding: 1%;
+    float: right;
+    border-radius: 5px;
+    width: 65%;
+    height: 30px;
+    border: 1px solid rgb(210, 210, 210);
+    outline: none;
+}
+
+.form-info input[type='submit']{
+    border: 1px solid rgb(180, 180, 180);
+    color: rgb(255, 255, 255);
+    background: rgb(68, 157, 68);
+    box-shadow: 0 3px 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 3px 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 3px 0 0 rgb(34, 158, 34);
+}
+
+.form-info input[type='submit']:active, .form-info input[type='submit']:focus{
+    outline: none;
+}
+
+.form-info input[type='submit']:active{
+    position: relative;
+    top: 3px;
+    box-shadow: 0 0 0 0 rgb(34, 158, 34);
+    -moz-box-shadow:  0 0 0 0 rgb(34, 158, 34);
+    -webkit-shadow:  0 0 0 0 rgb(34, 158, 34);
+}
+
+.user-info{
+    margin: 2% auto;
+    background: rgb(200, 200, 200);
+    padding: 4%;
+    width: 30%;
+    border: 1px solid rgb(55, 55, 55);
+    border-collapse: collapse;
+    text-indent: 2%;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.user-info td{
+    height: 30px;
+    border: 1px solid rgb(55, 55, 55);
+}
+
+.user-info tr td:first-child{
+    color: rgb(58, 21, 0);
+    text-align: left;
+    background: rgb(255, 156, 0);
+}
+
+.user-info tr td:nth-child(2){
+    color: rgb(0, 0, 0);
+    text-align: right;
+}
