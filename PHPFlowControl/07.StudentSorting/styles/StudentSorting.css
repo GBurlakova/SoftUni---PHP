@@ -1,0 +1,175 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(240, 240, 240);
+}
+
+.form{
+    width: 60%;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+    margin: 5% auto;
+}
+
+.form .header{
+    border-bottom: 2px solid rgb(160, 160, 160);
+    margin-bottom: 1%;
+    padding: 1%;
+}
+.form .header > div{
+    width: 25%;
+    display: inline-block;
+    text-align: left;
+    margin-right: 1%;
+    font-size: 130%;
+}
+
+.form .header > div:last-of-type{
+    width: 15%;
+}
+
+.form .students{
+    padding: 1%;
+}
+
+.form .students > div{
+    margin-bottom: 1%;
+}
+
+.form .students > div input{
+    width: 25%;
+    height: 30px;
+    margin-right: 1%;
+    border-radius: 2px;
+    border: 1px solid rgb(210, 210, 210);
+    padding: 1%;
+}
+
+.form .students > div input:active,
+.form .students > div input:focus{
+    outline: none;
+}
+
+.form .students > div input[type="number"]{
+    width: 15%;
+    padding: 0 1%;
+}
+
+
+.form button{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(35, 68, 101);
+    color: rgb(240, 240, 240);
+    border: none;
+    outline: none;
+    transition: all 0.2s ease;
+    border-radius: 2px;
+}
+
+.form button:hover{
+    background-color: rgb(255, 156, 0);
+    color: rgb(35, 68, 101);
+    cursor: pointer;
+}
+
+.form button:active{
+    position: relative;
+    top: 2px;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 156, 0);
+    color: rgb(35, 68, 101);
+}
+
+.form button:focus{
+    border: none;
+    outline: none;
+}
+
+.options{
+    padding: 1%;
+}
+
+.options label{
+    font-size: 120%;
+    margin-left: 1%;
+}
+
+.options select{
+    font-size: 110%;
+    color: rgb(33, 33, 33);
+}
+
+.options input{
+    width: 15%;
+    height: 25px;
+    margin-left: 2%;
+    background-color: rgb(35, 68, 101);
+    color: rgb(240, 240, 240);
+    border: none;
+    outline: none;
+    transition: all 0.2s ease;
+    border-radius: 2px;
+}
+
+.options input:hover{
+    background-color: rgb(255, 156, 0);
+    color: rgb(35, 68, 101);
+    cursor: pointer;
+}
+
+.options input:active{
+    position: relative;
+    top: 2px;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 156, 0);
+    color: rgb(35, 68, 101);
+}
+
+.options input:active,
+.options input:focus{
+    outline: none;
+}
+
+.result{
+    width: 50%;
+    margin: 1% auto;
+    font-size: 130%;
+    text-align: center;
+}
+
+.result table{
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid rgb(100, 100, 100);
+    border-collapse: collapse;
+    font-size: 120%;
+}
+
+.result table thead tr th{
+    background: rgb(75, 160, 219);
+    color: rgb(240, 240, 240);
+}
+
+.result table td, .result table th{
+    border: 1px solid rgb(100, 100, 100);
+    padding: 1%;
+    text-align: center;
+    width: 25%;
+}
+
+.result table td{
+    text-align: left;
+}
+
+.result table tr td:last-of-type{
+    text-align: right;
+}
+
+.result table tfoot{
+    font-weight: bold;
+}

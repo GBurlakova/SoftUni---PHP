@@ -1,0 +1,91 @@
+body{
+    background: rgb(225, 222, 225);
+}
+
+.heading{
+    display: block;
+    margin: 1% auto;
+    width: 30%;
+    height: 45px;
+    background: rgb(200, 200, 200);
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 120%;
+    padding: 2%;
+    text-align: center;
+}
+
+.form{
+    margin: 2% auto;
+    width: 85%;
+    background: rgb(200, 200, 200);
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    padding: 1%;
+    text-align: center;
+}
+
+.form:after{
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.form > div{
+    display: inline-block;
+    width: 13.28%;
+    vertical-align: middle;
+}
+
+.form > div:nth-of-type(1){
+    width: 30%;
+}
+
+.form > div:nth-of-type(1), .form > div:last-of-type{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.form > div input[type="radio"]{
+    display: inline-block;
+    width: 20%;
+}
+
+.form label{
+    width: 71%;
+    display: inline-block;
+    margin-left: 1%;
+    font-size: 105%;
+    text-align: center;
+}
+
+.form input:active, .form input:focus{
+    outline: none;
+}
+
+.form input[type="text"]{
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.form input[type="submit"]{
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.result{
+    display: block;
+    margin: 1% auto;
+    width: 30%;
+    background: rgb(200, 200, 200);
+    border: 1px solid rgb(34, 158, 34);
+    border-radius: 5px;
+    font-size: 120%;
+    padding: 1%;
+    text-align: center;
+}
