@@ -1,0 +1,62 @@
+table {
+  width: 70%;
+  border: 1px solid #646464;
+  border-collapse: collapse;
+  margin: 5% auto; }
+  table thead {
+    font-size: 150%;
+    color: white; }
+    table thead tr th {
+      padding: 1%;
+      border: 1px solid #646464;
+      background: #234465; }
+    table thead tr th:first-of-type {
+      text-align: left; }
+  table tbody tr {
+    height: 50px; }
+    table tbody tr td {
+      font-size: 115%;
+      color: #141414;
+      padding: 1%;
+      border: 1px solid #646464; }
+      table tbody tr td a {
+        color: inherit; }
+      table tbody tr td div {
+        display: none;
+        width: 290px;
+        height: 200px;
+        background: #d2d2d2;
+        box-shadow: 0 0 0 3px #646464;
+        -moz-box-shadow: 0 0 0 3px #646464;
+        -webkit-shadow: 0 0 0 3px #646464;
+        border-radius: 3px;
+        text-align: justify;
+        padding: 1%; }
+        table tbody tr td div p {
+          margin: 0;
+          height: 100%;
+          width: 100%; }
+    table tbody tr td:nth-of-type(1) {
+      width: 50%; }
+    table tbody tr td:nth-of-type(2) {
+      text-align: center;
+      width: 15%; }
+    table tbody tr td:nth-of-type(3) {
+      width: 5%;
+      text-align: center; }
+      table tbody tr td:nth-of-type(3) button {
+        width: 80%;
+        height: 40px;
+        background: #ff9c00;
+        color: white;
+        font-weight: bold;
+        border: 1px solid #141414;
+        outline: none; }
+      table tbody tr td:nth-of-type(3) button:hover {
+        cursor: pointer; }
+      table tbody tr td:nth-of-type(3) button:active {
+        outline: none; }
+      table tbody tr td:nth-of-type(3) button:focus {
+        outline: none; }
+  table tbody tr:nth-last-child(odd) {
+    background: #e2e2e2; }

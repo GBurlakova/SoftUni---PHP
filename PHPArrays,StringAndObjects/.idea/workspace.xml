@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84f8ec9e-3180-470e-a080-94f6d0d040c5" name="Default" comment="" />
+    <ignored path="PHPArrays,StringAndObjects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHPArrays,StringAndObjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="home.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="88" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="43" selection-start="567" selection-end="567" vertical-scroll-proportion="0.50088495" vertical-offset="40" max-vertical-offset="629">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/SoftUniSeminarGenerator.php" />
+        <option value="$PROJECT_DIR$/01.WordMapping/WordMapping.php" />
+        <option value="$PROJECT_DIR$/01.WordMapping/WordMapping.css" />
+        <option value="$PROJECT_DIR$/02.ColoringTexts/ColoringTexts.php" />
+        <option value="$PROJECT_DIR$/02.ColoringTexts/ColoringTexts.css" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/SidebarBuilder.php" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/SidebarBuilder.css" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/ResultPage.css" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/styles/ResultPage.css" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/indexErrorMessage.html" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/ResultPage.php" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/styles/SidebarBuilder.css" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/styles/resultPage.css" />
+        <option value="$PROJECT_DIR$/4.TextFilter/index.php" />
+        <option value="$PROJECT_DIR$/4.TextFilter/styles/textFilter.css" />
+        <option value="$PROJECT_DIR$/4.TextFilter/styles/resultPage.css" />
+        <option value="$PROJECT_DIR$/4.TextFilter/indexErrorMessage.php" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/resultPage.php" />
+        <option value="$PROJECT_DIR$/5.SentenceExtractor/styles/index.css" />
+        <option value="$PROJECT_DIR$/5.SentenceExtractor/phpScripts/index.php" />
+        <option value="$PROJECT_DIR$/4.TextFilter/resultPage.php" />
+        <option value="$PROJECT_DIR$/5.SentenceExtractor/index.php" />
+        <option value="$PROJECT_DIR$/5.SentenceExtractor/phpScripts/indexResult.php" />
+        <option value="$PROJECT_DIR$/5.SentenceExtractor/styles/indexResult.css" />
+        <option value="$PROJECT_DIR$/5.SentenceExtractor/styles/indexErrorMessage.css" />
+        <option value="$PROJECT_DIR$/5.SentenceExtractor/phpScripts/indexErrorMessage.php" />
+        <option value="$PROJECT_DIR$/06.URLReplacer/styles/index.php" />
+        <option value="$PROJECT_DIR$/06.URLReplacer/phpScripts/indexResult.php" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/index.css" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/indexResult.css" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/javascripts/showDescription.js" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/indexResult.scss" />
+        <option value="$PROJECT_DIR$/04.TextFilter/styles/resultPage.css" />
+        <option value="$PROJECT_DIR$/06.URLReplacer/styles/indexErrorMessage.css" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/indexErrorMessage.css" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/indexErrorMessage.php" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/seminar.php" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/javascripts/showDescriptionHide.js" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/index.php" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/indexResult.php" />
+        <option value="$PROJECT_DIR$/03.SidebarBuilder/indexErrorMessage.php" />
+        <option value="$PROJECT_DIR$/04.TextFilter/index.php" />
+        <option value="$PROJECT_DIR$/04.TextFilter/indexErrorMessage.php" />
+        <option value="$PROJECT_DIR$/04.TextFilter/indexResult.php" />
+        <option value="$PROJECT_DIR$/06.URLReplacer/index.php" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/indexResult.php" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/07.SoftUniSeminarGenerator/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="PhpStorm 7.1.3" name="PhpStorm 7.1.3" port="63342" />
+      <server host="localhost" name="localhost" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHPInterpreter" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpParamsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPArrays,StringAndObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPArrays,StringAndObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPArrays,StringAndObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPArrays,StringAndObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPArrays,StringAndObjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07.SoftUniSeminarGenerator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHP-Teamwork-ROSE-LAVANDA.git/trunk/gallery" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects" />
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\07.SoftUniSeminarGenerator\scripts\javascripts" />
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\06.URLReplacer\styles" />
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\4.TextFilter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\07.SoftUniSeminarGenerator\styles\" />
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\07.SoftUniSeminarGenerator\scripts\" />
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\06.URLReplacer\" />
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\5.SentenceExtractor\" />
+      <recent name="C:\xampp\htdocs\PHPArrays,StringAndObjects\5.SentenceExtractor\phpScripts\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f8ec9e-3180-470e-a080-94f6d0d040c5" name="Default" comment="" />
+      <created>1408742390029</created>
+      <updated>1408742390029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20468278" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15634441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="12" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="98" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/javascripts/showDescriptionHide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="34" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="98" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/javascripts/showDescriptionHide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="27" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.TextFilter/indexErrorMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.TextFilter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="14" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/seminar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1719" selection-end="1719" vertical-scroll-proportion="0.0" vertical-offset="817" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/indexResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="0" selection-start="4161" selection-end="4161" vertical-scroll-proportion="0.0" vertical-offset="1549" max-vertical-offset="1853" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.ColoringTexts/ColoringTexts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="34" selection-start="1046" selection-end="1046" vertical-scroll-proportion="-10.230769" vertical-offset="295" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.SidebarBuilder/styles/resultPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="21" selection-start="757" selection-end="757" vertical-scroll-proportion="0.36956522" vertical-offset="357" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.SidebarBuilder/styles/sidebarBuilder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="17" selection-start="0" selection-end="1712" vertical-scroll-proportion="3.431677" vertical-offset="0" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.SentenceExtractor/styles/indexResult.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="22" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.7792869" vertical-offset="0" max-vertical-offset="589" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.SentenceExtractor/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.82682514" vertical-offset="652" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="9" selection-start="7868" selection-end="7868" vertical-scroll-proportion="0.348135" vertical-offset="3748" max-vertical-offset="8636" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="732" column="7" selection-start="21746" selection-end="21750" vertical-scroll-proportion="-18.653847" vertical-offset="11959" max-vertical-offset="19142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.URLReplacer/styles/indexResult.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="401" column="9" selection-start="10839" selection-end="10839" vertical-scroll-proportion="0.3490909" vertical-offset="6625" max-vertical-offset="23664" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="522" column="9" selection-start="16552" selection-end="16552" vertical-scroll-proportion="0.35962147" vertical-offset="8760" max-vertical-offset="18734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.URLReplacer/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="0" selection-end="1650" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/javascripts/jquery-1.11.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/indexResult.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="54" selection-start="879" selection-end="879" vertical-scroll-proportion="-12.423077" vertical-offset="306" max-vertical-offset="1496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.TextFilter/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.85739434" vertical-offset="652" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.TextFilter/styles/resultPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="613" selection-end="1229" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1134" selection-end="1279" vertical-scroll-proportion="0.24471831" vertical-offset="694" max-vertical-offset="1445" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/indexResult.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="0" selection-start="1742" selection-end="1742" vertical-scroll-proportion="1.2750424" vertical-offset="303" max-vertical-offset="1156" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/styles/indexErrorMessage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="19" selection-start="1276" selection-end="1276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.3886926" vertical-offset="77" max-vertical-offset="11441" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/javascripts/showDescriptionHide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="34" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.WordMapping/WordMapping.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="1268" selection-end="1268" vertical-scroll-proportion="1.7606112" vertical-offset="0" max-vertical-offset="1207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.WordMapping/WordMapping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="91" selection-end="91" vertical-scroll-proportion="0.1811723" vertical-offset="0" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.ColoringTexts/ColoringTexts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="1387" selection-end="1387" vertical-scroll-proportion="1.933786" vertical-offset="0" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.SidebarBuilder/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="15" selection-start="47" selection-end="47" vertical-scroll-proportion="0.15097691" vertical-offset="0" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.SidebarBuilder/indexErrorMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="58" selection-end="58" vertical-scroll-proportion="0.15097691" vertical-offset="0" max-vertical-offset="731" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.SidebarBuilder/indexResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="58" selection-end="58" vertical-scroll-proportion="0.15454546" vertical-offset="0" max-vertical-offset="2006" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.TextFilter/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="54" selection-end="54" vertical-scroll-proportion="0.15097691" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.TextFilter/indexErrorMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="54" selection-end="54" vertical-scroll-proportion="0.15097691" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.TextFilter/indexResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="174" selection-end="174" vertical-scroll-proportion="0.3321492" vertical-offset="0" max-vertical-offset="714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.SentenceExtractor/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="7" selection-start="556" selection-end="556" vertical-scroll-proportion="0.75488454" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.SentenceExtractor/phpScripts/indexErrorMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="55" selection-start="599" selection-end="599" vertical-scroll-proportion="0.6642984" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.SentenceExtractor/phpScripts/indexResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="62" selection-start="0" selection-end="1250" vertical-scroll-proportion="0.8756661" vertical-offset="0" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.URLReplacer/phpScripts/indexResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="14" selection-start="1144" selection-end="1144" vertical-scroll-proportion="1.0568384" vertical-offset="0" max-vertical-offset="850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.URLReplacer/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="103" selection-end="103" vertical-scroll-proportion="0.21136767" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/indexErrorMessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="22" selection-start="361" selection-end="361" vertical-scroll-proportion="0.6642984" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/indexResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="36" selection-start="98" selection-end="98" vertical-scroll-proportion="0.24727273" vertical-offset="0" max-vertical-offset="1853" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/scripts/phpScripts/seminar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1719" selection-end="1719" vertical-scroll-proportion="1.6305506" vertical-offset="0" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="88" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.SoftUniSeminarGenerator/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="43" selection-start="567" selection-end="567" vertical-scroll-proportion="0.50088495" vertical-offset="40" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

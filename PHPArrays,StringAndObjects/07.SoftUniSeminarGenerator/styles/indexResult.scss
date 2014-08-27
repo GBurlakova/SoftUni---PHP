@@ -1,0 +1,83 @@
+table{
+  width: 70%;
+  border: 1px solid rgb(100, 100, 100);
+  border-collapse: collapse;
+  margin: 5% auto;
+  thead {
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    tr{
+      th{
+        padding: 1%;
+        border: 1px solid rgb(100, 100, 100);
+        background: rgb(35,68,101);
+      }
+      th:first-of-type{
+        text-align: left;
+      }
+    }
+  }
+  tbody{
+    tr{
+      height: 50px;
+      td{
+        font-size: 115%;
+        color: rgb(20, 20, 20);
+        padding: 1%;
+        border: 1px solid rgb(100, 100, 100);
+        a{
+          color: inherit;
+        }
+        div{
+          display: none;
+          width: 290px;
+          height: 200px;
+          background: rgb(210, 210, 210);
+          box-shadow: 0 0 0 3px rgb(100, 100, 100);
+          -moz-box-shadow:  0 0 0 3px rgb(100, 100, 100);
+          -webkit-shadow:  0 0 0 3px rgb(100, 100, 100);
+          border-radius: 3px;
+          text-align: justify;
+          padding: 1%;
+          p{
+            margin: 0;
+            height: 100%;
+            width: 100%;
+          }
+        }
+      }
+      td:nth-of-type(1){
+        width: 50%;
+      }
+      td:nth-of-type(2){
+        text-align: center;
+        width: 15%;
+      }
+      td:nth-of-type(3){
+        width: 5%;
+        text-align: center;
+        button{
+          width: 80%;
+          height: 40px;
+          background: rgb(255, 156, 0);
+          color: rgb(255, 255, 255);
+          font-weight: bold;
+          border: 1px solid rgb(20, 20, 20);
+          outline: none;
+        }
+        button:hover{
+          cursor: pointer;
+        }
+        button:active{
+          outline: none;
+        }
+        button:focus{
+          outline: none;
+        }
+      }
+    }
+    tr:nth-last-child(odd){
+      background: rgb(226, 226, 226);
+    }
+  }
+}
