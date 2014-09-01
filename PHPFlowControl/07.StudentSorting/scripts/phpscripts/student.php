@@ -1,7 +1,5 @@
 <?php
 
-namespace scripts\phpscripts;
-
 class Student {
     public $name;
     public $secondName;
@@ -17,27 +15,27 @@ class Student {
             if(!empty($name) && preg_match($namesPattern, $name) == 1){
                 $this->name = $name;
             } else {
-                throw new \Exception('Please enter only correct names.');
+                throw new Exception('Please enter only correct names.');
             }
 
             if(!empty($secondName) && preg_match($namesPattern, $secondName) == 1){
                 $this->secondName = $secondName;
             } else {
-                throw new \Exception('Please enter only correct names.');
+                throw new Exception('Please enter only correct names.');
             }
 
             if(!empty($email) && preg_match($emailPattern, $email) == 1){
                 $this->email = $email;
             } else {
-                throw new \Exception('Please enter correct emails.');
+                throw new Exception('Please enter correct emails.');
             }
 
             if(!empty($examScore) && is_numeric($examScore)){
                 $this->examScore = $examScore;
             } else {
-                throw new \Exception('Please enter only numbers for the exam score.');
+                throw new Exception('Please enter only numbers for the exam score.');
             }
-        } catch(\Exception $e){
+        } catch(Exception $e){
             echo $e->getMessage();
             $this->allowedPrintFunc = false;
             return;
@@ -162,32 +160,32 @@ class Student {
         try{
             if($criteria == 1){
                 switch($order){
-                    case 1: return usort($students, 'scripts\phpscripts\Student::sortByNameDsc'); break;
-                    case 2: return usort($students, 'scripts\phpscripts\Student::sortByNameAsc'); break;
-                    default: throw new \Exception('Please select correct order term!');
+                    case 1: return usort($students, 'Student::sortByNameDsc'); break;
+                    case 2: return usort($students, 'Student::sortByNameAsc'); break;
+                    default: throw new Exception('Please select correct order term!');
                 }
             } elseif ($criteria == 2){
                 switch($order){
-                    case 1: return usort($students, 'scripts\phpscripts\Student::sortBySecondNameDsc'); break;
-                    case 2: return usort($students, 'scripts\phpscripts\Student::sortBySecondNameAsc'); break;
-                    default: throw new \Exception('Please select correct order term!');
+                    case 1: return usort($students, 'Student::sortBySecondNameDsc'); break;
+                    case 2: return usort($students, 'Student::sortBySecondNameAsc'); break;
+                    default: throw new Exception('Please select correct order term!');
                 }
             } elseif ($criteria == 3){
                 switch($order){
-                    case 1: return usort($students, 'scripts\phpscripts\Student::sortByEmailDsc'); break;
-                    case 2: return usort($students, 'scripts\phpscripts\Student::sortByEmailAsc'); break;
-                    default: throw new \Exception('Please select correct order term!');
+                    case 1: return usort($students, 'Student::sortByEmailDsc'); break;
+                    case 2: return usort($students, 'Student::sortByEmailAsc'); break;
+                    default: throw new Exception('Please select correct order term!');
                 }
             } elseif($criteria == 4){
                 switch($order){
-                    case 1: return usort($students, 'scripts\phpscripts\Student::sortByScoreDsc'); break;
-                    case 2: return usort($students, 'scripts\phpscripts\Student::sortByScoreAsc'); break;
-                    default: throw new \Exception('Please select correct order term!');
+                    case 1: return usort($students, 'Student::sortByScoreDsc'); break;
+                    case 2: return usort($students, 'Student::sortByScoreAsc'); break;
+                    default: throw new Exception('Please select correct order term!');
                 }
             } else {
-                throw new \Exception('Please select correct sort term!');
+                throw new Exception('Please select correct sort term!');
             }
-        } catch(\Exception $e){
+        } catch(Exception $e){
             header('Location: StudentSorting.php');
             exit;
         }

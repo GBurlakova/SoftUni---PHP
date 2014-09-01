@@ -69,11 +69,11 @@ header('Content-Type: text/html; charset=utf-8');
                 <div class="result">
                     <?php
                     foreach($iterator as $entrySet){
-                        $students[] = new scripts\phpscripts\Student($entrySet[0], $entrySet[1], $entrySet[2], $entrySet[3]);
+                        $students[] = new Student($entrySet[0], $entrySet[1], $entrySet[2], $entrySet[3]);
                     }
-                    if( scripts\phpscripts\Student::allowedPrintForAll($students)){
-                        scripts\phpscripts\Student::selectSortCriteria($sortCriteria, $sortOrder, $students);
-                        scripts\phpscripts\Student::printStudents($students);
+                    if( Student::allowedPrintForAll($students)){
+                        Student::selectSortCriteria($sortCriteria, $sortOrder, $students);
+                        Student::printStudents($students);
                     }
                     ?>
                 </div>
